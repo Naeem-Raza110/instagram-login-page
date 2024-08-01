@@ -7,15 +7,18 @@
     height: 700px;
     margin-top: 0px;
     padding: 0px;
-    background-color: rgb(220, 68, 93);
+    background-color: rgb(201, 214, 214);
+   
 }
 .div1{
     width: 500px;
-    height: 700px;
+    height: 600px;
     background-color: white;
     margin-left: auto;
     margin-right: auto;
     margin-top: 0px;
+    padding-top: 20px;
+    box-shadow: 20px 20px 40px 40px rgb(154, 158, 158);
 }
 p{
     padding-left: 170px;
@@ -31,8 +34,8 @@ img{
 input{
     margin-left: 90px;
     margin-top: 5px;
-    width: 320px;
-    height: 35px;
+    width: 310px;
+    height: 30px;
     border-radius: 3px;
     border: none;
     border: 1px solid rgb(45, 20, 20);
